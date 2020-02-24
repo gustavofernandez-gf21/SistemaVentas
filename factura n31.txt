@@ -1,0 +1,12 @@
+Factura de venta 31
+Fecha: 2020-02-24
+--------------------------------------
+Cliente: Romina Chavez
+--------------------------------------
+Empleado: Jorge Ortiz
+Legajo Empleado: 12
+--------------------------------------
+ID: 2   Nombre: Shampoo   Marca: Rexona   Precio Unitario: $20.0   Cantidad: 2   Precio: $40.0
+--------------------------------------
+Total: $40.0
+--------------------------------------
